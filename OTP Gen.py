@@ -1,3 +1,6 @@
+#Before Copy Codes, Take Owner Permission or Give a Credits!
+# Made by @palahsu
+
 import random
 generate_otp = random.randint(000000,100000)
 username = input ("username: ")
