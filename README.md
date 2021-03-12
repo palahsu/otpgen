@@ -1,7 +1,7 @@
 # otpgen
 Simple OTP Generator and Verification with Password! Create a powerful secure otp using otpgen tool. Help prevent a security threat by getting a strong password. It's a random password generator to create long, truly random passwords that even the strongest computers can’t crack.
 
-or any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
+For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
 
 <a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
